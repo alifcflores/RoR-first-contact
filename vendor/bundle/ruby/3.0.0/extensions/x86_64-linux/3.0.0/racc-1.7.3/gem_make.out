@@ -1,0 +1,15 @@
+current directory: /home/alifcflores/appl/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240402-3268-m3c4bt.rb extconf.rb
+creating Makefile
+
+current directory: /home/alifcflores/appl/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/alifcflores/appl/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/alifcflores/appl/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240402-3268-9xw4b/racc
